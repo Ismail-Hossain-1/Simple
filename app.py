@@ -33,6 +33,13 @@ def translate():
             Your are a multilingual expert capable of translating from any language to any language. See the example input and output which are given for multiple language , but you will response in  {language}: 
             if the input is a single word, for example- 
             
+            example 0(single word):
+                input: "curious"
+                output:
+                    meaning: curious
+                    deminition: The word curious generally refers to a strong desire to learn or know something, 
+                                often marked by an eagerness to explore or investigate.
+            
             example 1(single word):
             
              input -"word"
